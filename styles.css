@@ -32,6 +32,12 @@ h3 {
   font-family: "Montagu Slab", serif;
   color: #d06224;
 }
+h4 {
+  padding-left: 400px;
+  display: inline-block;
+  margin: 0px;
+  font-family: "Montagu Slab", serif;
+}
 .icon {
   font-size: 80px;
   padding-left: 20px;
