@@ -1,4 +1,38 @@
+.app {
+  max-width: 630px;
+  border: 1px solid slategray;
+  padding: 30px;
+  border-radius: 5px;
+  margin: 30px auto;
+  background-color: #e8e8cc;
+}
 h1 {
-  text-align: center;
-  color: brown;
+  font-size: 60px;
+  color: #8a8635;
+  margin-left: 50px;
+}
+.units {
+  font-size: 12px;
+  color: #8a8635;
+}
+
+h2 {
+  font-family: "Montagu Slab", serif;
+  display: inline-block;
+  padding: 10px;
+  padding-left: 10px;
+  padding-bottom: 0;
+  color: #d06224;
+}
+h3 {
+  padding-left: 125px;
+  display: inline-block;
+  margin: -50px;
+  padding-bottom: 0;
+  font-family: "Montagu Slab", serif;
+  color: #d06224;
+}
+.icon {
+  font-size: 80px;
+  padding-left: 20px;
 }
